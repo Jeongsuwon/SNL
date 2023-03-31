@@ -100,6 +100,9 @@ body{
     margin: 10px auto;
 
 }
+.people th{
+    width: 70px;
+}
 
 
 .people, .people th, .people td{
@@ -109,7 +112,6 @@ body{
 }
 
 .people th, .people td{
-    text-align: center;
     padding: 20px 80px;
 }
 
